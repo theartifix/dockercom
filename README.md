@@ -1,2 +1,2 @@
 # dockercom
-Java Spring Service for communicating with Docker containers
+Java Service for communicating with Docker containers
